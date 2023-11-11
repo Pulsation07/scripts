@@ -1,4 +1,5 @@
 # Docker Setup
+Enter directory with docker-compose file.
 
 `$ docker compose up -d`
 
