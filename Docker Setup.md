@@ -1,6 +1,6 @@
 # Docker Setup
 
-$ docker compose up -d
+`$ docker compose up -d`
 
 Transfer all of /wp-content/ to /wp-app/wp-content
 
