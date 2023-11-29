@@ -3,7 +3,7 @@ Enter directory with docker-compose file.
 
 `$ docker compose up -d`
 
-Transfer all of /wp-content/ to /wp-app/wp-content
+Transfer all of /wp-content/ to wp-app/wp-content
 
 Adjust local file permissions
 
